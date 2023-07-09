@@ -1,2 +1,2 @@
-# AuromationFramework_ItTrainingBD
+# AutomationFramework_ItTrainingBD
 Learning from Automation 
