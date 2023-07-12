@@ -1,2 +1,2 @@
-# AutomationFramework_ItTrainingBD
+# SeleniumCore_CG
 Learning from Automation 
